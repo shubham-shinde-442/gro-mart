@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://shubham-shinde-442.github.io/gro-mart",
   "scripts": {
     "test": "jest",
     "dev": "vite",
