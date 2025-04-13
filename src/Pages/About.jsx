@@ -1,3 +1,4 @@
+import React from "react";
 import { Leaf, ShoppingBag, Heart, Truck } from "lucide-react"
 import FreshMart from "../assets/FreshMart.jpg"
 
