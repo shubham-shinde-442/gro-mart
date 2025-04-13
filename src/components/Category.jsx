@@ -21,11 +21,11 @@ const categoryItems = [
         image:dairy
     },
     {
-        name:"Bakery",
+        name:"Bakery & Snacks",
         image:bakery
     },
     {
-        name:"Meat",
+        name:"Meat & Seafood",
         image:meat
     },
     {
